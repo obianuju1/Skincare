@@ -42,8 +42,8 @@ The following **additional** features are implemented:
 Here's a walk
 through of implemented user stories:
 
-<img src='https://github.com/obianuju1/Skincare/assets/83367389/8c000533-dd41-45bd-89f5-a387bdfdf3bb' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://github.com/obianuju1/Skincare/assets/83367389/8c000533-dd41-45bd-89f5-a387bdfdf3b' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+b
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
 <!-- Recommended tools:
